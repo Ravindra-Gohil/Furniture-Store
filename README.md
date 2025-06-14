@@ -1,2 +1,2 @@
 # Furniture-Store
-live demo : 
+live demo : https://ravindra-gohil.github.io/Furniture-Store/
